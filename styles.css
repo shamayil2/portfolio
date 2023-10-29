@@ -1,0 +1,127 @@
+.col1 {
+    height: 80vh;
+    background-color: #F9F5F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col2 {
+    height: 80vh;
+    background-color: #F8E8EE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-main h1 {
+    color: #FF9B9B;
+}
+
+.col2 img {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.col3 {
+    background-color: #FDCEDF;
+    height: 80vh;
+}
+
+.col3 h1 {
+    text-align: center;
+    padding: 10px;
+    color: #EB89B5;
+}
+
+.skills {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.skills .card {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.projects h1 {
+    text-align: center;
+}
+
+.projects {
+    height: 80vh;
+    background-color: #DAEAF1;
+}
+
+.projects img {
+    height: 300px;
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.war {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    color: #4C6F7B;
+}
+
+.about h2 {
+    text-align: center;
+}
+
+.jour {
+    text-align: center;
+    color: #49BEB7;
+}
+
+.quali {
+    height: 80vh;
+    background-color: #BADFDB;
+}
+
+.experience {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.experience .card {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.cont {
+    height: 40vh;
+    background-color: #EADCA6;
+}
+
+.cont h1 {
+    color: #3C3D47;
+    text-align: center;
+    padding: 30px;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact a {
+    margin: 30px;
+}
+
+.conlast {
+    text-align: center;
+    color: #C36A2D;
+}
